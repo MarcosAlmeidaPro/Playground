@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1069F4767AE6D6C0B0EA367D11C5AEC0CAE83830",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1EFD1D580EF55BEC7E0A09E997EC1511C8C0A562" : 9223372036854775807,
+    "1069F4767AE6D6C0B0EA367D11C5AEC0CAE83830" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3A7B30CE-A852-4512-B1AD-76D3D3E1A074",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1EFD1D580EF55BEC7E0A09E997EC1511C8C0A562" : "",
+    "1069F4767AE6D6C0B0EA367D11C5AEC0CAE83830" : "Playground\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Fibonacci",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Fibonacci.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MarcosAlmeidaPro\/Playground.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1069F4767AE6D6C0B0EA367D11C5AEC0CAE83830"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MarcosAlmeidaPro\/Devslopes---IOS-10-Swift-3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1EFD1D580EF55BEC7E0A09E997EC1511C8C0A562"
+    }
+  ]
+}
