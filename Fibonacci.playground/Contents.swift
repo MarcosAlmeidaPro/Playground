@@ -25,7 +25,7 @@ func fibonacci(x: Int){
     
 }
 
-var numeroSelecao = 50
+var numeroSelecao = 90
 
 fibonacci(x: numeroSelecao)
 
